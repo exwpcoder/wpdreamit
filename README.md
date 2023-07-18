@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://wpdreamit.com/](https://wpdreamit.com/)
+- 👨‍💻 All of my projects are available at [wpdreamit/](https://wpdreamit.com/)
 
-- 📝 I regularly write articles on [https://wpdreamit.com/](https://wpdreamit.com/)
+- 📝 I regularly write articles on [wpdreamit/](https://wpdreamit.com/)
 
 - 📫 How to reach me **wpdreamit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
+- 📄 Know about my experiences [CV/](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny**
 
