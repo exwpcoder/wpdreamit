@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wpdreamit@gmail.com**
 
-- 📄 Know about my experiences [CV/](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Funny**
 
