@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, WP Dream IT CEO Shohidul Islam Apu</h1>
+<h1 align="center">Hi 👋, Welcome WP Dream IT</h1>
+<p align="center">CEO of Shohidul Islam Apu</p>
 <h3 align="center">A passionate Custom WordPress developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdreamit&label=Profile%20views&color=0e75b6&style=flat" alt="wpdreamit" /> </p>
