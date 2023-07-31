@@ -21,7 +21,9 @@
 
 <h3 align="left">My Services</h3>
 - <a href="#" target="blank">Custom WordPress Theme Development</a><br/>
-- <a href="#" target="blank">Custom WordPress Plugin Development</a>
+- <a href="#" target="blank">Custom WordPress Plugin Development</a><br/>
+- <a href="#" target="blank">Custom Woocommerce Theme Development</a><br/>
+- <a href="#" target="blank">Any Themes Customization</a><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
