@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Marketplace author</h3>
-<a href="https://www.templatemonster.com/authors/creativethemax/" target="blank">Templatemonster</a>
+- <a href="https://www.templatemonster.com/authors/creativethemax/" target="blank">Templatemonster</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
