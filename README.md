@@ -19,9 +19,9 @@
 - <a href="https://www.templatemonster.com/authors/creativethemax/" target="blank">Templatemonster</a>
 - <a href="https://www.codester.com/shohidulislamapu/" target="blank">Codester</a>
 
-<h3 align="left">Some Custom WordPress Project</h3>
-- <a href="https://lrbinventiveit.com/" target="blank">lrbinventiveit.com</a>
-- <a href="https://www.codester.com/shohidulislamapu/" target="blank">Codester</a>
+<h3 align="left">My Services</h3>
+- <a href="#" target="blank">Custom WordPress Theme Development</a><br/>
+- <a href="#" target="blank">Custom WordPress Theme Development</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
