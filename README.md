@@ -3,13 +3,6 @@
 <p align="center">I'm Professional Custom WordPress Developer in Bangladesh. I have 6 years of experience in this field. Any Project I can do it.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdreamit&label=Profile%20views&color=0e75b6&style=flat" alt="wpdreamit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **wpdreamit@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
-
-
 <h3 align="left">Marketplace author</h3>
 - <a href="https://www.templatemonster.com/authors/creativethemax/" target="blank">Templatemonster</a>
 - <a href="https://www.codester.com/shohidulislamapu/" target="blank">Codester</a>
@@ -19,8 +12,17 @@
 - <a href="#" target="blank">Custom WordPress Plugin Development</a><br/>
 - <a href="#" target="blank">Custom Woocommerce Theme Development</a><br/>
 - <a href="#" target="blank">Any Themes Customization</a><br/>
+- <a href="#" target="blank">PSD TO WordPress</a><br/>
+- <a href="#" target="blank">HTML TO WordPress</a><br/>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📫 How to reach me **wpdreamit@gmail.com**
+
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1d4uqBKLaau2aegmRnPqXhnphZi_66E4a/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://fb.com/wordpressdreamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wpdreamit" height="30" width="40" /></a>
 <a href="https://instagram.com/wpdreamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wpdreamit" height="30" width="40" /></a>
