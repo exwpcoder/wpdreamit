@@ -3,8 +3,6 @@
 <p align="center">I'm Professional Custom WordPress Developer in Bangladesh. I have 6 years of experience in this field. Any Project I can do it.</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpdreamit&label=Profile%20views&color=0e75b6&style=flat" alt="wpdreamit" /> </p>
-
 <h3 align="left">Marketplace author</h3>
 - <a href="https://www.templatemonster.com/authors/creativethemax/" target="blank">Templatemonster</a>
 - <a href="https://www.codester.com/shohidulislamapu/" target="blank">Codester</a>
